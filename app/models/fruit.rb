@@ -3,3 +3,5 @@ class Fruit < ApplicationRecord
     weight * 2.2
   end
 end
+
+# test test
